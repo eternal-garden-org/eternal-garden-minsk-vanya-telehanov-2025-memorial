@@ -18,7 +18,7 @@ export default function Home() {
           fullName="Александр Викторович Карпук"
           birthDate="1964-06-15"
           deathDate="2024-10-09"
-          photoUrl="http://127.0.0.1:54331/storage/v1/object/publicmemorials/abd747b1-9661-444e-89b8-7956fe739b22/photo/1753237166172_l_i25vxr5z2_g-o9atgbp.webp"
+          photoUrl="http://127.0.0.1:54331/storage/v1/object/public/memorial-mediamemorials/abd747b1-9661-444e-89b8-7956fe739b22/photo/1753237166172_l_i25vxr5z2_g-o9atgbp.webp"
           birthPlace="Телеханы, Беларусь"
           deathPlace="Брест, Беларусь"
         />
